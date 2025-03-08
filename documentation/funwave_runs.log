@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.20)  8 MAR 2025 10:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.20)  8 MAR 2025 18:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -535,10 +535,10 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<diagnose.pdf, id=9, 628.04706pt x 387.71973pt>
+<diagnose.pdf, id=8, 628.04706pt x 387.71973pt>
 File: diagnose.pdf Graphic file (type pdf)
 <use diagnose.pdf>
-Package pdftex.def Info: diagnose.pdf  used on input line 86.
+Package pdftex.def Info: diagnose.pdf  used on input line 89.
 (pdftex.def)             Requested size: 345.0pt x 212.98619pt.
  [1
 
@@ -548,37 +548,37 @@ iagnose.pdf>]
 File: ../data/preprocessing/plots/CASE01.jpg Graphic file (type jpg)
 <use ../data/preprocessing/plots/CASE01.jpg>
 Package pdftex.def Info: ../data/preprocessing/plots/CASE01.jpg  used on input 
-line 119.
+line 122.
 (pdftex.def)             Requested size: 276.00105pt x 331.18338pt.
 <../data/preprocessing/plots/CASE02.jpg, id=39, 1505.625pt x 1806.75pt>
 File: ../data/preprocessing/plots/CASE02.jpg Graphic file (type jpg)
 <use ../data/preprocessing/plots/CASE02.jpg>
 Package pdftex.def Info: ../data/preprocessing/plots/CASE02.jpg  used on input 
-line 127.
+line 130.
 (pdftex.def)             Requested size: 345.0pt x 413.99991pt.
 <../data/preprocessing/plots/CASE03.jpg, id=40, 1505.625pt x 1806.75pt>
 File: ../data/preprocessing/plots/CASE03.jpg Graphic file (type jpg)
 <use ../data/preprocessing/plots/CASE03.jpg>
 Package pdftex.def Info: ../data/preprocessing/plots/CASE03.jpg  used on input 
-line 135.
+line 138.
 (pdftex.def)             Requested size: 345.0pt x 413.99991pt.
 <../data/preprocessing/plots/CASE04.jpg, id=41, 1505.625pt x 1806.75pt>
 File: ../data/preprocessing/plots/CASE04.jpg Graphic file (type jpg)
 <use ../data/preprocessing/plots/CASE04.jpg>
 Package pdftex.def Info: ../data/preprocessing/plots/CASE04.jpg  used on input 
-line 143.
+line 146.
 (pdftex.def)             Requested size: 345.0pt x 413.99991pt.
 <../data/preprocessing/plots/CASE05.jpg, id=42, 1505.625pt x 1806.75pt>
 File: ../data/preprocessing/plots/CASE05.jpg Graphic file (type jpg)
 <use ../data/preprocessing/plots/CASE05.jpg>
 Package pdftex.def Info: ../data/preprocessing/plots/CASE05.jpg  used on input 
-line 151.
+line 154.
 (pdftex.def)             Requested size: 345.0pt x 413.99991pt.
 <../data/preprocessing/plots/CASE06.jpg, id=43, 1505.625pt x 1806.75pt>
 File: ../data/preprocessing/plots/CASE06.jpg Graphic file (type jpg)
 <use ../data/preprocessing/plots/CASE06.jpg>
 Package pdftex.def Info: ../data/preprocessing/plots/CASE06.jpg  used on input 
-line 159.
+line 162.
 (pdftex.def)             Requested size: 345.0pt x 413.99991pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial01.jpg, id=44, 1171.37625pt x 
 878.28125pt>
@@ -586,7 +586,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial01.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial01.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial01.jpg
-  used on input line 169.
+  used on input line 172.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial02.jpg, id=45, 1171.37625pt x 
 878.28125pt>
@@ -594,7 +594,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial02.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial02.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial02.jpg
-  used on input line 177.
+  used on input line 180.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial03.jpg, id=46, 1171.37625pt x 
 878.28125pt>
@@ -602,7 +602,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial03.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial03.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial03.jpg
-  used on input line 185.
+  used on input line 188.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial04.jpg, id=47, 1171.37625pt x 
 878.28125pt>
@@ -610,7 +610,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial04.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial04.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial04.jpg
-  used on input line 193.
+  used on input line 196.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial05.jpg, id=48, 1171.37625pt x 
 878.28125pt>
@@ -618,7 +618,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial05.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial05.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE01_Trial05.jpg
-  used on input line 201.
+  used on input line 204.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial01.jpg, id=49, 1171.37625pt x 
 878.28125pt>
@@ -626,7 +626,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial01.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial01.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial01.jpg
-  used on input line 211.
+  used on input line 214.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial02.jpg, id=50, 1171.37625pt x 
 878.28125pt>
@@ -634,7 +634,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial02.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial02.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial02.jpg
-  used on input line 219.
+  used on input line 222.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial03.jpg, id=51, 1171.37625pt x 
 878.28125pt>
@@ -642,7 +642,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial03.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial03.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial03.jpg
-  used on input line 227.
+  used on input line 230.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial04.jpg, id=52, 1171.37625pt x 
 878.28125pt>
@@ -650,7 +650,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial04.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial04.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial04.jpg
-  used on input line 235.
+  used on input line 238.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial05.jpg, id=53, 1171.37625pt x 
 878.28125pt>
@@ -658,7 +658,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial05.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial05.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE02_Trial05.jpg
-  used on input line 243.
+  used on input line 246.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial01.jpg, id=54, 1171.37625pt x 
 878.28125pt>
@@ -666,7 +666,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial01.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial01.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial01.jpg
-  used on input line 251.
+  used on input line 254.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial02.jpg, id=55, 1171.37625pt x 
 878.28125pt>
@@ -674,7 +674,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial02.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial02.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial02.jpg
-  used on input line 259.
+  used on input line 262.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial03.jpg, id=56, 1171.37625pt x 
 878.28125pt>
@@ -682,7 +682,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial03.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial03.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial03.jpg
-  used on input line 267.
+  used on input line 270.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial04.jpg, id=57, 1171.37625pt x 
 878.28125pt>
@@ -690,7 +690,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial04.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial04.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial04.jpg
-  used on input line 275.
+  used on input line 278.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial05.jpg, id=58, 1171.37625pt x 
 878.28125pt>
@@ -698,7 +698,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial05.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial05.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE03_Trial05.jpg
-  used on input line 283.
+  used on input line 286.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial01.jpg, id=59, 1171.37625pt x 
 878.28125pt>
@@ -706,7 +706,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial01.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial01.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial01.jpg
-  used on input line 291.
+  used on input line 294.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial02.jpg, id=60, 1171.37625pt x 
 878.28125pt>
@@ -714,7 +714,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial02.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial02.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial02.jpg
-  used on input line 299.
+  used on input line 302.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial03.jpg, id=61, 1171.37625pt x 
 878.28125pt>
@@ -722,7 +722,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial03.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial03.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial03.jpg
-  used on input line 307.
+  used on input line 310.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial04.jpg, id=62, 1171.37625pt x 
 878.28125pt>
@@ -730,7 +730,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial04.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial04.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial04.jpg
-  used on input line 315.
+  used on input line 318.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial05.jpg, id=63, 1171.37625pt x 
 878.28125pt>
@@ -738,7 +738,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial05.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial05.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE04_Trial05.jpg
-  used on input line 323.
+  used on input line 326.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial01.jpg, id=64, 1171.37625pt x 
 878.28125pt>
@@ -746,7 +746,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial01.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial01.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial01.jpg
-  used on input line 331.
+  used on input line 334.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial02.jpg, id=65, 1171.37625pt x 
 878.28125pt>
@@ -754,7 +754,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial02.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial02.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial02.jpg
-  used on input line 339.
+  used on input line 342.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial03.jpg, id=66, 1171.37625pt x 
 878.28125pt>
@@ -762,7 +762,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial03.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial03.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial03.jpg
-  used on input line 347.
+  used on input line 350.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial04.jpg, id=67, 1171.37625pt x 
 878.28125pt>
@@ -770,7 +770,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial04.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial04.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial04.jpg
-  used on input line 355.
+  used on input line 358.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial05.jpg, id=68, 1171.37625pt x 
 878.28125pt>
@@ -778,7 +778,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial05.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial05.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial05.jpg
-  used on input line 363.
+  used on input line 366.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial06.jpg, id=69, 1171.37625pt x 
 878.28125pt>
@@ -786,7 +786,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial06.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial06.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial06.jpg
-  used on input line 371.
+  used on input line 374.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial07.jpg, id=70, 1171.37625pt x 
 878.28125pt>
@@ -794,7 +794,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial07.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial07.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial07.jpg
-  used on input line 379.
+  used on input line 382.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial08.jpg, id=71, 1171.37625pt x 
 878.28125pt>
@@ -802,7 +802,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial08.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial08.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial08.jpg
-  used on input line 387.
+  used on input line 390.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial09.jpg, id=72, 1171.37625pt x 
 878.28125pt>
@@ -810,7 +810,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial09.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial09.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial09.jpg
-  used on input line 395.
+  used on input line 398.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial10.jpg, id=73, 1171.37625pt x 
 878.28125pt>
@@ -818,7 +818,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial10.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial10.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE05_Trial10.jpg
-  used on input line 403.
+  used on input line 406.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial01.jpg, id=74, 1171.37625pt x 
 878.28125pt>
@@ -826,7 +826,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial01.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial01.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial01.jpg
-  used on input line 411.
+  used on input line 414.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial02.jpg, id=75, 1171.37625pt x 
 878.28125pt>
@@ -834,7 +834,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial02.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial02.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial02.jpg
-  used on input line 419.
+  used on input line 422.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial03.jpg, id=76, 1171.37625pt x 
 878.28125pt>
@@ -842,7 +842,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial03.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial03.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial03.jpg
-  used on input line 427.
+  used on input line 430.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial04.jpg, id=77, 1171.37625pt x 
 878.28125pt>
@@ -850,7 +850,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial04.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial04.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial04.jpg
-  used on input line 435.
+  used on input line 438.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 <../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial05.jpg, id=78, 1171.37625pt x 
 878.28125pt>
@@ -858,7 +858,7 @@ File: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial05.jpg Graphic file (type
  jpg)
 <use ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial05.jpg>
 Package pdftex.def Info: ../FUNWAVE-TVD/postprocessing/plots/CASE06_Trial05.jpg
-  used on input line 443.
+  used on input line 446.
 (pdftex.def)             Requested size: 276.00105pt x 206.94559pt.
 [3 <../data/preprocessing/plots/CASE01.jpg>] [4 <../data/preprocessing/plots/CA
 SE02.jpg>] [5 <../data/preprocessing/plots/CASE03.jpg>] [6 <../data/preprocessi
@@ -909,15 +909,16 @@ Here is how much of TeX's memory you used:
  33238 multiletter control sequences out of 15000+600000
  560682 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,79p,252b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,6n,79p,253b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on funwave_runs.pdf (26 pages, 7124457 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on funwave_runs.pdf (26 pages, 7132537 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
+ 262 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
  75 named destinations out of 1000 (max. 500000)
  211 words of extra memory for PDF output out of 10000 (max. 10000000)
 

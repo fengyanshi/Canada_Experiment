@@ -43,13 +43,11 @@ March 8, 2025
 
 3)  \href{https://github.com/fengyanshi/Canada_Experiment/tree/main/data}{Data and preparation directory}
 
-4)  \href{https://github.com/fengyanshi/Canada_Experiment/tree/main/data}{Data and preparation directory}
-
-5)  \href{https://github.com/fengyanshi/Canada_Experiment/tree/main/references}{References}
+4)  \href{https://github.com/fengyanshi/Canada_Experiment/tree/main/references}{References}
 
 \section*{Purposes}
 
-1) provide a procedure for conducting numerical simulations of the experiments using FUNWAVE-TVD
+1) provide a procedure to conduct numerical simulations of the canada experiments using FUNWAVE-TVD
 
 2) preprocessing for model grids
 
@@ -57,24 +55,29 @@ March 8, 2025
 
 4) methods of diagnosing numerical results
 
-5) postprocessing results
+5) matlab scripts for postprocessing results
+
+6) preliminary results
+
   
 
 \section*{modeling procedure}
 
 1) generate grids. run plot\_profile\_caseX.m in /data/preprocessing/
 
-2) compile the code in /FUNWAVE-TVD/model\_work using Makefile
+2) compile the code in /FUNWAVE-TVD/model\_work/ using Makefile
 
 3) run each case in /FUNWAVE-TVD/model\_work 
  
- For example, >mpirun -np 8 ./funwave input\_01\_01.txt 
+ For example, 
+ 
+ $>$mpirun -np 8 ./funwave input\_01\_01.txt 
  
  The input file is defined as input\_CaseNumber\_TrialNumber.txt
  
- 4) postprocessing in  /FUNWAVE-TVD/postprocessing
+ 4) postprocessing in  /FUNWAVE-TVD/postprocessing/
 
-For example, run Case1\_Trial01.m
+For example, run Case1\_Trial01.m in MATLAB
 
 
 \section*{diagnosing hydrodynamics and sediment transport}
@@ -91,7 +94,7 @@ See Figure 1.
 
 \section*{Initial assessment}  
 
-The model/data comparisons of morphological change are generally unsatisfactory. There are several potential causes for the poor comparisons
+The model/data comparisons of morphological change are generally unsatisfactory. There are several potential causes for poor comparisons
 
 1) the model was not tuned 
 
@@ -105,11 +108,11 @@ The model/data comparisons of morphological change are generally unsatisfactory.
 
 1) check the profile data first. I used the smoothed profiles made by Sahar
 
-2) the model needs to be tuned in a typical case, and the same parameters can be applied to all other cases. Suggest using an automated program in linux/unix system. I think Windows system can also have the option. 
+2) the model needs to be tuned in a typical case, and the same parameters can be applied to all other cases. Suggest using an automated program in linux/unix system. I think Windows system can also have this option. 
 
 3) use the diagnosing script when tuning the model
 
-4) model/data comparison of waves should be conducted at surfzone locations.  
+4) model/data comparisons of hydrodynamics inside surfzone are very necessary to find out the problem.  
 
 
 \newpage
